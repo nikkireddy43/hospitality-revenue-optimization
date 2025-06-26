@@ -1,0 +1,5 @@
+fact_bookings.xlsx: Individual booking records with revenue, platform, status, and ratings.
+fact_aggregated_bookings.xlsx: Aggregated bookings with capacity per property and room.
+dim_rooms.xlsx: Room category details.
+dim_hotels.xlsx: Property names, categories, and cities.
+dim_date.xlsx: Calendar information including month, week number, and day type.
