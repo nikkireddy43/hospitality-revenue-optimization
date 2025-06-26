@@ -1,0 +1,6 @@
+This folder holds 
+-hospitality.ipnyb jupiter notebook
+-hospitality.pdf Notebook pdf
+-A ppt holding explanations
+-Dashboard.ipbx PowerBI dashboard
+-Dashboard.pdf dashboard pdf
